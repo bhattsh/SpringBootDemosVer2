@@ -1,0 +1,10 @@
+INDEX VERSION 1.131+C:\Work\Notes\Cloud Native\Examples\WS\.metadata\.plugins\org.eclipse.jdt.core
+1806959795.index
+2551416722.index
+2033498301.index
+2249821777.index
+3076283278.index
+3110410907.index
+946541500.index
+1401523018.index
+22146367.index
