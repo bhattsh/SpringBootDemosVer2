@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aop-reference-model>
-<aop-project name="00_employee"/>
+<aop-project name="09_employee-oauth2-click"/>
+<aop-project name="08_employee-oauth2-simple"/>
 </aop-reference-model>
